@@ -1,0 +1,16 @@
+.cotegory {
+    height: 100px;
+}
+.subscription{
+    height: 300px;
+    width: auto;
+    background-color: #FEEAE9;;
+}
+footer{
+    height: 120px;
+    background-color: rgb(22, 21, 21);
+    color: white;
+}
+.footer{
+    text-align: justify;
+}
